@@ -12,17 +12,11 @@ My research interests include Computer Vision, particularly spatial perception, 
 - Vision-based Abnormal Behavior Recognition
 
 ### Skills
-**Languages**
+**Languages** | Python · Java · JavaScript · C
 
-Python · Java · JavaScript · C
+**Frameworks** | PyTorch · OpenCV · React
 
-**Frameworks**
-
-PyTorch · OpenCV · React
-
-**Tools**
-
-Git · Docker
+**Tools** | Git · Docker
 
 ### Technical Blog
 🔗 https://velog.io/@bibibip23/posts
