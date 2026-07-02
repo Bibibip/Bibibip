@@ -14,8 +14,10 @@ My research interests include Computer Vision, particularly spatial perception, 
 ### Skills
 **Languages**
 Python · Java · JavaScript · C
+
 **Frameworks**
 PyTorch · OpenCV · React
+
 **Tools**
 Git · Docker
 
