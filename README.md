@@ -5,7 +5,7 @@ My research interests include various topics in computer vision and multimodal A
 
 ## 🚀 Current Projects
 ### Driver View to Bird's Eye View (Personal Project)
-Implemented a homography-based BEV transformation from driving videos. Through this project, I explored the limitations of homography-based methods and am currently studying learning-based BEV representation, including BEVFormer.
+Implemented a homography-based BEV transformation from driving videos. Through this project, I explored the limitations of homography-based methods and am currently studying learning-based BEV methods, including BEVFormer.
 ### AI-based Smart Entrance Monitoring System (Capstone Project)
 Developing a computer vision-based entrance monitoring system using object detection, multi-object tracking, and behavior analysis.
 
