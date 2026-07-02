@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm SunBi 👋
 
-<!--
-**Bibibip/Bibibip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student in Digital Software Engineering
 
-Here are some ideas to get you started:
+💻 Interested in Computer Vision, 3D Vision, and Multimodal AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+- Computer Vision
+- 3D Vision
+- Scene Understanding
+- Object Tracking
+- Multimodal AI
+
+---
+
+## Education & Experience
+
+---
+
+## 🚀 Current Projects
+
+### Driver View to Bird's Eye View
+Homography-based BEV transformation from driving videos.
+
+### Smart Entrance Security System
+AI-based entrance monitoring using object detection and tracking.
+
+### DropWatch
+Object tracking for automated lost-and-found systems.
+
+---
+
+## 📚 Currently Learning
+
+- BEVFormer
+- 3D Gaussian Splatting
+- Vision-Language Models
+
+---
+
+## 🛠 Skills
+
+**Languages**
+
+Python · Java · JavaScript · C
+
+**Frameworks**
+
+PyTorch · OpenCV · React · Node.js
+
+**Tools**
+
+Git · Docker · Linux
+
+---
+
+## 📄 CV
+
+Coming Soon
+
+---
+
+## 📖 Paper Reviews
+
+- BEVFormer (In Progress)
+
+- Why Far Looks Up (Planned)
+
+- Gaussian Splatting (Planned)
+  
+
+## 📝 Technical Blog
+
+(블로그 링크)
+
+---
+
+## 📫 Contact
+
+Email: xxxx@xxxx.com
