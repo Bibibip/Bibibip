@@ -1,15 +1,16 @@
 ### Hi, I'm SunBi 👋
 
 I am a senior undergraduate student in the Department of Computer Science, Engineering and Converged Technology at Duksung Women's University.
-My research interests include Computer Vision, particularly spatial perception, object tracking, and scene understanding.
+My research interests include Computer Vision, particularly 3D Scene Understanding and Video Understanding, with growing interest in Vision-Language Models and Embodied AI.
+
 ### Current Projects
-- Driver View to Bird's Eye View (Personal Project)
 - AI-based Smart Entrance Monitoring System (Capstone Project)
+- Bird's-Eye View Transformation and Road Scene Analysis (Personal Project)
 
 ### Currently Learning
 - Linear Algebra for Machine Learning
-- BEVFormer
 - Vision-based Abnormal Behavior Recognition
+- Anomaly Detection for Semiconductor Devices (Dacon Competition)
 
 ### Skills
 **Languages** | Python · Java · JavaScript · C
